@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=petarmc1&show_icons=true&theme=vue-dark" height="150" alt="stats graph"  />
 
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petarmc1&layout=compact&theme=vue-dark&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petarmc1&layout=compact&theme=vue-dark&langs_count=8" height="150" alt="languages graph" />
 </div>
 
 ###
