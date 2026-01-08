@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Development is my hobby<br>Fun fact: When I fix something, I break two more things in the process.</p>
+<p align="left">Development is my hobby and most projects i make are purely for fun, not as my main priority :D<br>Fun fact: When I fix something, I break two more things in the process.</p>
 
 ###
 
