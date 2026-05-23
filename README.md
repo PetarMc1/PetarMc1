@@ -41,8 +41,8 @@
 ###
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=PetarMc1&theme=radical&show_icons=true&hide_border=true" alt="PetarMc1's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PetarMc1&theme=radical&show_icons=true&hide_border=true&layout=compact&exclude_repo=javadocs" alt="PetarMc1's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=PetarMc1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PetarMc1&layout=compact&theme=radical&exclude_repo=javadocs" alt="Top Languages" />
 </div>
 
 ###
